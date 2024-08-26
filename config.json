@@ -1,0 +1,6 @@
+{
+    "api_url": "https://api.etherscan.io/api",
+    "api_key": "xxxxx",
+    "coingecko_api_key": "xxxx",
+    "filename": "addresses.csv"
+}
